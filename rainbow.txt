@@ -1,11 +1,13 @@
-## The Rainbow
+## The Rainbow and the Unicorns
 
  Red, 
  Orange, 
  Yellow, 
+ Unicorn,
  Green, 
  Blue, 
- Indigo 
+ Indigo,
+ Unicorn
  and Violet.
  
- These are the colors in the Rainbow
+ These are the colors in the Rainbow and Unicorns
