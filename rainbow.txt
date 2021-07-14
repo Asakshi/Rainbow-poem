@@ -1,13 +1,15 @@
-## The Rainbow and the Unicorns
+## The Rainbow and the Unicorns and ponies
 
  Red, 
  Orange, 
  Yellow, 
  Unicorn,
+ Pony,
  Green, 
  Blue, 
  Indigo,
- Unicorn
+ Unicorn,
+ Pony
  and Violet.
  
  These are the colors in the Rainbow and Unicorns
